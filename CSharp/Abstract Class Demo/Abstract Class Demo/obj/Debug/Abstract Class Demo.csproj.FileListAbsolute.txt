@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT033\source\repos\Abstract Class Demo\Abstract Class Demo\bin\Debug\Abstract Class Demo.exe.config
+C:\Users\BLTuser.BLT033\source\repos\Abstract Class Demo\Abstract Class Demo\bin\Debug\Abstract Class Demo.exe
+C:\Users\BLTuser.BLT033\source\repos\Abstract Class Demo\Abstract Class Demo\bin\Debug\Abstract Class Demo.pdb
+C:\Users\BLTuser.BLT033\source\repos\Abstract Class Demo\Abstract Class Demo\obj\Debug\Abstract Class Demo.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\Abstract Class Demo\Abstract Class Demo\obj\Debug\Abstract Class Demo.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\Abstract Class Demo\Abstract Class Demo\obj\Debug\Abstract Class Demo.exe
+C:\Users\BLTuser.BLT033\source\repos\Abstract Class Demo\Abstract Class Demo\obj\Debug\Abstract Class Demo.pdb

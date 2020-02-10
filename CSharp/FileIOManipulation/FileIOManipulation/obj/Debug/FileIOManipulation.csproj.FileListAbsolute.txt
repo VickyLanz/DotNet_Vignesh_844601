@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT033\source\repos\FileIOManipulation\FileIOManipulation\obj\Debug\FileIOManipulation.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\FileIOManipulation\FileIOManipulation\obj\Debug\FileIOManipulation.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\FileIOManipulation\FileIOManipulation\bin\Debug\FileIOManipulation.exe.config
+C:\Users\BLTuser.BLT033\source\repos\FileIOManipulation\FileIOManipulation\bin\Debug\FileIOManipulation.exe
+C:\Users\BLTuser.BLT033\source\repos\FileIOManipulation\FileIOManipulation\bin\Debug\FileIOManipulation.pdb
+C:\Users\BLTuser.BLT033\source\repos\FileIOManipulation\FileIOManipulation\obj\Debug\FileIOManipulation.exe
+C:\Users\BLTuser.BLT033\source\repos\FileIOManipulation\FileIOManipulation\obj\Debug\FileIOManipulation.pdb

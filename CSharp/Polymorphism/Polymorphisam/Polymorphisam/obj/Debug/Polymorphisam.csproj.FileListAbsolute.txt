@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT033\source\repos\Polymorphisam\Polymorphisam\bin\Debug\Polymorphisam.exe.config
+C:\Users\BLTuser.BLT033\source\repos\Polymorphisam\Polymorphisam\bin\Debug\Polymorphisam.exe
+C:\Users\BLTuser.BLT033\source\repos\Polymorphisam\Polymorphisam\bin\Debug\Polymorphisam.pdb
+C:\Users\BLTuser.BLT033\source\repos\Polymorphisam\Polymorphisam\obj\Debug\Polymorphisam.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\Polymorphisam\Polymorphisam\obj\Debug\Polymorphisam.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\Polymorphisam\Polymorphisam\obj\Debug\Polymorphisam.exe
+C:\Users\BLTuser.BLT033\source\repos\Polymorphisam\Polymorphisam\obj\Debug\Polymorphisam.pdb

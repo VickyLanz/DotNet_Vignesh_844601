@@ -1,0 +1,11 @@
+C:\Users\BLTuser.BLT033\source\repos\SampleEFDBFirstProgram\SampleEFDBFirstProgram\obj\Debug\SampleEFDBFirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\SampleEFDBFirstProgram\SampleEFDBFirstProgram\obj\Debug\SampleEFDBFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\SampleEFDBFirstProgram\SampleEFDBFirstProgram\bin\Debug\SampleEFDBFirstProgram.exe.config
+C:\Users\BLTuser.BLT033\source\repos\SampleEFDBFirstProgram\SampleEFDBFirstProgram\bin\Debug\SampleEFDBFirstProgram.exe
+C:\Users\BLTuser.BLT033\source\repos\SampleEFDBFirstProgram\SampleEFDBFirstProgram\bin\Debug\SampleEFDBFirstProgram.pdb
+C:\Users\BLTuser.BLT033\source\repos\SampleEFDBFirstProgram\SampleEFDBFirstProgram\bin\Debug\EntityFramework.dll
+C:\Users\BLTuser.BLT033\source\repos\SampleEFDBFirstProgram\SampleEFDBFirstProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BLTuser.BLT033\source\repos\SampleEFDBFirstProgram\SampleEFDBFirstProgram\bin\Debug\EntityFramework.xml
+C:\Users\BLTuser.BLT033\source\repos\SampleEFDBFirstProgram\SampleEFDBFirstProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BLTuser.BLT033\source\repos\SampleEFDBFirstProgram\SampleEFDBFirstProgram\obj\Debug\SampleEFDBFirstProgram.exe
+C:\Users\BLTuser.BLT033\source\repos\SampleEFDBFirstProgram\SampleEFDBFirstProgram\obj\Debug\SampleEFDBFirstProgram.pdb

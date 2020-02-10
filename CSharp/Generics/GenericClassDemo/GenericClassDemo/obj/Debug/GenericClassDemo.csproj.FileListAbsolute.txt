@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT033\source\repos\GenericClassDemo\GenericClassDemo\bin\Debug\GenericClassDemo.exe.config
+C:\Users\BLTuser.BLT033\source\repos\GenericClassDemo\GenericClassDemo\bin\Debug\GenericClassDemo.exe
+C:\Users\BLTuser.BLT033\source\repos\GenericClassDemo\GenericClassDemo\bin\Debug\GenericClassDemo.pdb
+C:\Users\BLTuser.BLT033\source\repos\GenericClassDemo\GenericClassDemo\obj\Debug\GenericClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\GenericClassDemo\GenericClassDemo\obj\Debug\GenericClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\GenericClassDemo\GenericClassDemo\obj\Debug\GenericClassDemo.exe
+C:\Users\BLTuser.BLT033\source\repos\GenericClassDemo\GenericClassDemo\obj\Debug\GenericClassDemo.pdb

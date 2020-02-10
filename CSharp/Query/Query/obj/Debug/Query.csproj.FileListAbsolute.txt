@@ -1,0 +1,10 @@
+C:\Users\BLTuser.BLT033\source\repos\Query\Query\bin\Debug\Query.exe.config
+C:\Users\BLTuser.BLT033\source\repos\Query\Query\bin\Debug\Query.exe
+C:\Users\BLTuser.BLT033\source\repos\Query\Query\bin\Debug\Query.pdb
+C:\Users\BLTuser.BLT033\source\repos\Query\Query\obj\Debug\Query.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\Query\Query\obj\Debug\Query.Form1.resources
+C:\Users\BLTuser.BLT033\source\repos\Query\Query\obj\Debug\Query.Properties.Resources.resources
+C:\Users\BLTuser.BLT033\source\repos\Query\Query\obj\Debug\Query.csproj.GenerateResource.Cache
+C:\Users\BLTuser.BLT033\source\repos\Query\Query\obj\Debug\Query.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\Query\Query\obj\Debug\Query.exe
+C:\Users\BLTuser.BLT033\source\repos\Query\Query\obj\Debug\Query.pdb

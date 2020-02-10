@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT033\source\repos\oops concept\oops concept\bin\Debug\oops concept.exe.config
+C:\Users\BLTuser.BLT033\source\repos\oops concept\oops concept\bin\Debug\oops concept.exe
+C:\Users\BLTuser.BLT033\source\repos\oops concept\oops concept\bin\Debug\oops concept.pdb
+C:\Users\BLTuser.BLT033\source\repos\oops concept\oops concept\obj\Debug\oops concept.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\oops concept\oops concept\obj\Debug\oops concept.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\oops concept\oops concept\obj\Debug\oops concept.exe
+C:\Users\BLTuser.BLT033\source\repos\oops concept\oops concept\obj\Debug\oops concept.pdb

@@ -1,0 +1,6 @@
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductName\obj\Debug\ProductName.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductName\obj\Debug\ProductName.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductName\bin\Debug\ProductName.dll
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductName\bin\Debug\ProductName.pdb
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductName\obj\Debug\ProductName.dll
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductName\obj\Debug\ProductName.pdb

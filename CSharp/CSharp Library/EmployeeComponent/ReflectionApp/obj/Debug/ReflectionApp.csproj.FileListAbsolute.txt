@@ -1,0 +1,11 @@
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ReflectionApp\bin\Debug\ReflectionApp.exe.config
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ReflectionApp\bin\Debug\ReflectionApp.exe
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ReflectionApp\bin\Debug\ReflectionApp.pdb
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ReflectionApp\bin\Debug\EmployeeComponent.dll
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ReflectionApp\bin\Debug\EmployeeComponent.pdb
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ReflectionApp\obj\Debug\ReflectionApp.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ReflectionApp\obj\Debug\ReflectionApp.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ReflectionApp\obj\Debug\ReflectionApp.exe
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ReflectionApp\obj\Debug\ReflectionApp.pdb
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ReflectionApp\bin\Debug\ProductName.dll
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ReflectionApp\bin\Debug\ProductName.pdb

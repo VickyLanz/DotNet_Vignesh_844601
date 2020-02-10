@@ -1,0 +1,6 @@
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankComponent\bin\Debug\BankComponent.dll
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankComponent\bin\Debug\BankComponent.pdb
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankComponent\obj\Debug\BankComponent.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankComponent\obj\Debug\BankComponent.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankComponent\obj\Debug\BankComponent.dll
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankComponent\obj\Debug\BankComponent.pdb

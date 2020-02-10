@@ -1,0 +1,6 @@
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\EmployeeComponent\bin\Debug\EmployeeComponent.dll
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\EmployeeComponent\bin\Debug\EmployeeComponent.pdb
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\EmployeeComponent\obj\Debug\EmployeeComponent.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\EmployeeComponent\obj\Debug\EmployeeComponent.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\EmployeeComponent\obj\Debug\EmployeeComponent.dll
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\EmployeeComponent\obj\Debug\EmployeeComponent.pdb

@@ -1,0 +1,10 @@
+C:\Users\BLTuser.BLT033\source\repos\SampleADOApp\SampleADOApp\bin\Debug\SampleADOApp.exe.config
+C:\Users\BLTuser.BLT033\source\repos\SampleADOApp\SampleADOApp\bin\Debug\SampleADOApp.exe
+C:\Users\BLTuser.BLT033\source\repos\SampleADOApp\SampleADOApp\bin\Debug\SampleADOApp.pdb
+C:\Users\BLTuser.BLT033\source\repos\SampleADOApp\SampleADOApp\obj\Debug\SampleADOApp.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\SampleADOApp\SampleADOApp\obj\Debug\SampleADOApp.Form1.resources
+C:\Users\BLTuser.BLT033\source\repos\SampleADOApp\SampleADOApp\obj\Debug\SampleADOApp.Properties.Resources.resources
+C:\Users\BLTuser.BLT033\source\repos\SampleADOApp\SampleADOApp\obj\Debug\SampleADOApp.csproj.GenerateResource.Cache
+C:\Users\BLTuser.BLT033\source\repos\SampleADOApp\SampleADOApp\obj\Debug\SampleADOApp.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\SampleADOApp\SampleADOApp\obj\Debug\SampleADOApp.exe
+C:\Users\BLTuser.BLT033\source\repos\SampleADOApp\SampleADOApp\obj\Debug\SampleADOApp.pdb

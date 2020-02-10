@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT033\source\repos\SampleDebug\SampleDebug\bin\Debug\SampleDebug.exe.config
+C:\Users\BLTuser.BLT033\source\repos\SampleDebug\SampleDebug\bin\Debug\SampleDebug.exe
+C:\Users\BLTuser.BLT033\source\repos\SampleDebug\SampleDebug\bin\Debug\SampleDebug.pdb
+C:\Users\BLTuser.BLT033\source\repos\SampleDebug\SampleDebug\obj\Debug\SampleDebug.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\SampleDebug\SampleDebug\obj\Debug\SampleDebug.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\SampleDebug\SampleDebug\obj\Debug\SampleDebug.exe
+C:\Users\BLTuser.BLT033\source\repos\SampleDebug\SampleDebug\obj\Debug\SampleDebug.pdb

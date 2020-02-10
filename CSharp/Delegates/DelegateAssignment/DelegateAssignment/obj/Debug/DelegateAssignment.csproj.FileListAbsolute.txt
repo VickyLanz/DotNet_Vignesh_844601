@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT033\source\repos\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\DelegateAssignment\DelegateAssignment\bin\Debug\DelegateAssignment.exe.config
+C:\Users\BLTuser.BLT033\source\repos\DelegateAssignment\DelegateAssignment\bin\Debug\DelegateAssignment.exe
+C:\Users\BLTuser.BLT033\source\repos\DelegateAssignment\DelegateAssignment\bin\Debug\DelegateAssignment.pdb
+C:\Users\BLTuser.BLT033\source\repos\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.exe
+C:\Users\BLTuser.BLT033\source\repos\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.pdb
+C:\Users\BLTuser.BLT033\source\repos\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.csprojResolveAssemblyReference.cache

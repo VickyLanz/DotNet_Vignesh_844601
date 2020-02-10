@@ -1,0 +1,14 @@
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\bin\Debug\AssesmentCodeFirstDay2.exe.config
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\bin\Debug\AssesmentCodeFirstDay2.exe
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\bin\Debug\AssesmentCodeFirstDay2.pdb
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\bin\Debug\EntityFramework.dll
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\bin\Debug\EntityFramework.xml
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\obj\Debug\AssesmentCodeFirstDay2.csprojResolveAssemblyReference.cache
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\obj\Debug\AssesmentCodeFirstDay2.csproj.CoreCompileInputs.cache
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\obj\Debug\AssesmentCodeFirstDay2.exe
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\obj\Debug\AssesmentCodeFirstDay2.pdb
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\obj\Debug\AssesmentCodeFirstDay2.Migrations.InitialCreate.resources
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\obj\Debug\AssesmentCodeFirstDay2.csproj.GenerateResource.Cache
+c:\users\bltuser.blt033\source\repos\AssesmentCodeFirstDay2\AssesmentCodeFirstDay2\obj\Debug\AssesmentCodeFirstDay2.Migrations.StudentDBCreated.resources

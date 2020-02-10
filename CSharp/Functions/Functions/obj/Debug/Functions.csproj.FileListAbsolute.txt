@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT033\source\repos\Functions\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\BLTuser.BLT033\source\repos\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\BLTuser.BLT033\source\repos\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\BLTuser.BLT033\source\repos\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\BLTuser.BLT033\source\repos\Functions\Functions\obj\Debug\Functions.pdb

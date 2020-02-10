@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Java DOM programming </title>
+</head>
+<body>
+ <form>
+ First_number:<input type="text" name="text1"><br>
+ Second_number:<input type="text" name="text2"><br>
+  <button id="btnshow" onclick="show()">SHOW RESULT</button>
+  </form>
+ <script type="text/javascript">
+   function show()
+    {
+     var a= parseFloat(text1);
+	 var b=parseFloat(text2);
+     var result=a+b;	 
+	 document.writeln(result);
+	}
+  </script>
+</body>
+</html>  

@@ -1,0 +1,9 @@
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankApp\bin\Debug\BankApp.exe
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankApp\bin\Debug\BankApp.pdb
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankApp\bin\Debug\BankComponent.dll
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankApp\bin\Debug\BankComponent.pdb
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankApp\obj\Debug\BankApp.exe
+C:\Users\BLTuser.BLT033\source\repos\BankComponent\BankApp\obj\Debug\BankApp.pdb

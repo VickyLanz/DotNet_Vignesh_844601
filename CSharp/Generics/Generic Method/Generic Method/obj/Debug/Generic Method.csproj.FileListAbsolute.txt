@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT033\source\repos\Generic Method\Generic Method\obj\Debug\Generic Method.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\Generic Method\Generic Method\obj\Debug\Generic Method.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\Generic Method\Generic Method\bin\Debug\Generic Method.exe.config
+C:\Users\BLTuser.BLT033\source\repos\Generic Method\Generic Method\bin\Debug\Generic Method.exe
+C:\Users\BLTuser.BLT033\source\repos\Generic Method\Generic Method\bin\Debug\Generic Method.pdb
+C:\Users\BLTuser.BLT033\source\repos\Generic Method\Generic Method\obj\Debug\Generic Method.exe
+C:\Users\BLTuser.BLT033\source\repos\Generic Method\Generic Method\obj\Debug\Generic Method.pdb

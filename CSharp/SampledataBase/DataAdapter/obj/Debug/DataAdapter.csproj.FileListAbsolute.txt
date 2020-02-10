@@ -1,0 +1,11 @@
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\DataAdapter\bin\Debug\DataAdapter.exe.config
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\DataAdapter\bin\Debug\DataAdapter.exe
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\DataAdapter\bin\Debug\DataAdapter.pdb
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\DataAdapter\obj\Debug\DataAdapter.Form1.resources
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\DataAdapter\obj\Debug\DataAdapter.Properties.Resources.resources
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\DataAdapter\obj\Debug\DataAdapter.csproj.GenerateResource.Cache
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\DataAdapter\obj\Debug\DataAdapter.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\DataAdapter\obj\Debug\DataAdapter.exe
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\DataAdapter\obj\Debug\DataAdapter.pdb
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\DataAdapter\obj\Debug\DataAdapter.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\DataAdapter\obj\Debug\DataAdapter.Form2.resources

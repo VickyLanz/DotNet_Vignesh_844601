@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<title>Registration page</title>
+</head>
+<body bgcolor="#e6e6e6">
+<header align="center">REGISTRATION FORM</header><br>
+<form name="myform"  align="center">
+  NAME:
+  <input type="text" id="text1" ><br>
+  DOB:
+  <input type="text" id="text2"  required><br>
+ 
+<button type="submit">SUBMIT</button>
+
+</form>
+<script type="text/javascript">
+   document.getElementById("btnsubmit").onclick = function validate()
+                                                  {
+                                                     var x=document.forms["myform"]["text1"].value;
+                                                     if(x =="")
+	                                                   {
+	                                                       window.alert("Fields cannot be Empty");
+	                                                       //return false;
+                                                        } 
+														else
+														{
+														return false;
+														}
+												   }
+ </script>
+ </body>
+ </html>
+ 

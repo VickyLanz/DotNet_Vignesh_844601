@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT033\source\repos\ThreadPriorityApp\ThreadPriorityApp\bin\Debug\ThreadPriorityApp.exe.config
+C:\Users\BLTuser.BLT033\source\repos\ThreadPriorityApp\ThreadPriorityApp\bin\Debug\ThreadPriorityApp.exe
+C:\Users\BLTuser.BLT033\source\repos\ThreadPriorityApp\ThreadPriorityApp\bin\Debug\ThreadPriorityApp.pdb
+C:\Users\BLTuser.BLT033\source\repos\ThreadPriorityApp\ThreadPriorityApp\obj\Debug\ThreadPriorityApp.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\ThreadPriorityApp\ThreadPriorityApp\obj\Debug\ThreadPriorityApp.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\ThreadPriorityApp\ThreadPriorityApp\obj\Debug\ThreadPriorityApp.exe
+C:\Users\BLTuser.BLT033\source\repos\ThreadPriorityApp\ThreadPriorityApp\obj\Debug\ThreadPriorityApp.pdb

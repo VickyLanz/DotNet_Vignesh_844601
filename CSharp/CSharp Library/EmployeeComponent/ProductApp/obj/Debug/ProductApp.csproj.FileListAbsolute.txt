@@ -1,0 +1,11 @@
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductApp\bin\Debug\ProductApp.exe.config
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductApp\bin\Debug\ProductApp.exe
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductApp\bin\Debug\ProductApp.pdb
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductApp\bin\Debug\ProductName.dll
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductApp\bin\Debug\ProductName.pdb
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductApp\obj\Debug\ProductApp.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductApp\obj\Debug\ProductApp.exe
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductApp\obj\Debug\ProductApp.pdb
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductApp\bin\Debug\EmployeeComponent.dll
+C:\Users\BLTuser.BLT033\source\repos\EmployeeComponent\ProductApp\bin\Debug\EmployeeComponent.pdb

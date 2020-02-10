@@ -1,0 +1,12 @@
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\bin\Debug\SampledataBase.exe.config
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\bin\Debug\SampledataBase.exe
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\bin\Debug\SampledataBase.pdb
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\obj\Debug\SampledataBase.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\obj\Debug\SampledataBase.Form1.resources
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\obj\Debug\SampledataBase.Properties.Resources.resources
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\obj\Debug\SampledataBase.csproj.GenerateResource.Cache
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\obj\Debug\SampledataBase.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\obj\Debug\SampledataBase.exe
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\obj\Debug\SampledataBase.pdb
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\obj\Debug\SampledataBase.Form2.resources
+C:\Users\BLTuser.BLT033\source\repos\SampledataBase\SampledataBase\obj\Debug\SampledataBase.Form3.resources

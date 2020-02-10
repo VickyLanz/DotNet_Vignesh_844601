@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT033\source\repos\ThreadLockingApp\ThreadLockingApp\bin\Debug\ThreadLockingApp.exe.config
+C:\Users\BLTuser.BLT033\source\repos\ThreadLockingApp\ThreadLockingApp\bin\Debug\ThreadLockingApp.exe
+C:\Users\BLTuser.BLT033\source\repos\ThreadLockingApp\ThreadLockingApp\bin\Debug\ThreadLockingApp.pdb
+C:\Users\BLTuser.BLT033\source\repos\ThreadLockingApp\ThreadLockingApp\obj\Debug\ThreadLockingApp.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT033\source\repos\ThreadLockingApp\ThreadLockingApp\obj\Debug\ThreadLockingApp.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT033\source\repos\ThreadLockingApp\ThreadLockingApp\obj\Debug\ThreadLockingApp.exe
+C:\Users\BLTuser.BLT033\source\repos\ThreadLockingApp\ThreadLockingApp\obj\Debug\ThreadLockingApp.pdb
