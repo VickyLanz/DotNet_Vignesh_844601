@@ -13,14 +13,14 @@ jobs:
         environment: staging
         steps:
             - name: access the secret value
-              run: echo " deploying to ${{ vars.TYPE }}"
+              run: echo " deploying to ${{ secrets.TYPE }}"
     e2e-test:
         runs-on: ubuntu-latest
         environment: staging
         needs: deploy-stage
         steps:
             - name: access the secret value
-              run: echo "Running E2E test on ${{ vars.TYPE }}"
+              run: echo "Running E2E test on ${{ secrets.TYPE }}"
     deploy-prod-frontend:
         runs-on: ubuntu-latest
 
@@ -28,14 +28,14 @@ jobs:
         needs: e2e-test
         steps:
             - name: access the secret value
-              run: echo "Deploying frontend on ${{ vars.TYPE }}"
+              run: echo "Deploying frontend on ${{ secrets.TYPE }}"
     deploy-prod-backend1:
         runs-on: ubuntu-latest
         environment: prod
         needs: e2e-test
         steps:
             - name: access the secret value
-              run: echo "deploying backend1 on ${{ vars.TYPE }}"
+              run: echo "deploying backend1 on ${{ secrets.TYPE }}   ${{ vars.MY_ENV_VALUE}}"
     deploy-prod-backend2:
         runs-on: ubuntu-latest
         environment: prod
