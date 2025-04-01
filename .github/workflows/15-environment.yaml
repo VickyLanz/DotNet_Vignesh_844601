@@ -1,0 +1,41 @@
+name: working with environments
+
+on:
+    workflow_dispatch:
+        inputs:
+            target-env:
+                type: environment
+                default: staging
+
+jobs:
+    deploy-stage:
+        runs-on: ubuntu-latest
+        environment: staging
+        steps:
+            - name: access the secret value
+              run: echo " deploying to ${{ env.type }}"
+    e2e-test:
+        runs-on: ubuntu-latest
+        environment: staging
+        steps:
+            - name: access the secret value
+              run: echo "Running E2E test on ${{ env.type }}"
+    deploy-prod-frontend:
+        runs-on: ubuntu-latest
+
+        environment: prod
+        steps:
+            - name: access the secret value
+              run: echo "Deploying frontend on ${{ env.type }}"
+    deploy-prod-backend1:
+        runs-on: ubuntu-latest
+        environment: prod
+        steps:
+            - name: access the secret value
+              run: echo "deploying backend1 on ${{ env.type }}"
+    deploy-prod-backend2:
+        runs-on: ubuntu-latest
+        environment: prod
+        steps:
+            - name: access the secret value
+              run: echo "Deploying backend on ${{ env.type }}"
