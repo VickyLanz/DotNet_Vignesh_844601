@@ -17,6 +17,7 @@ jobs:
     e2e-test:
         runs-on: ubuntu-latest
         environment: staging
+        needs: deploy-stage
         steps:
             - name: access the secret value
               run: echo "Running E2E test on ${{ env.type }}"
@@ -24,18 +25,21 @@ jobs:
         runs-on: ubuntu-latest
 
         environment: prod
+        needs: e2e-test
         steps:
             - name: access the secret value
               run: echo "Deploying frontend on ${{ env.type }}"
     deploy-prod-backend1:
         runs-on: ubuntu-latest
         environment: prod
+        needs: e2e-test
         steps:
             - name: access the secret value
               run: echo "deploying backend1 on ${{ env.type }}"
     deploy-prod-backend2:
         runs-on: ubuntu-latest
         environment: prod
+        needs: e2e-test
         steps:
             - name: access the secret value
               run: echo "Deploying backend on ${{ env.type }}"
